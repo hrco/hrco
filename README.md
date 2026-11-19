@@ -1,13 +1,69 @@
-# hrco
+<h1 align="center">hrco</h1>
 
-Calm, durable tools for security, privacy and AI under [DoNotPanic / Project 42](https://donotpanic.space): survival infrastructure, free and useful, no ornament.
+<p align="center">
+  <a href="https://donotpanic.space">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&center=true&vCenter=true&width=620&lines=Don't+panic.+It's+probably+DNS.;Pro+vibe+coder.+Amateur+RAM+manager.;Forty-two+agents.+Eight+gigabytes.+One+Air." alt="Don't panic. It's probably DNS. Pro vibe coder. Amateur RAM manager. Forty-two agents. Eight gigabytes. One Air." />
+  </a>
+</p>
 
-## DJ Claude v1.11
+I write the prompt with confidence and the apology with experience. Calm, durable tools under [DoNotPanic / Project 42](https://donotpanic.space): free, useful, no ornament.
 
-![DJ Claude on a phone](assets/dj-claude.png)
+## What I build
 
-An endless radio where code writes the music live in your browser. Nothing is recorded, everyone hears their own mix, and you can dance in front of the camera to speed it up (the picture never leaves your device). Classic stickman mode and a 3D boss mode.
+- **[DoNotPanic DJ](https://donotpanic.space)**: an endless radio where code writes the music live in your browser. Classic stickman mode and a 3D boss mode.
+- **[xbridge-mcp](https://github.com/hrco/xbridge-mcp)**: an MCP server with 19 tools for chat, search, sessions, chains, and image and video generation. Bring your own key.
+- **[jarvis-sl](https://github.com/hrco/jarvis-sl)**: a Slovenian voice helper with an open dialect table.
+
+## What I fix
+
+- **Translation**: English, Slovenian, Croatian.
+- **DNS and domains**: records, subdomains, the thing that is always the problem.
+- **Web setup**: from empty domain to live page.
+- **Phones and computers**: repairs, hardware changes, reimaging.
+- **AI agents**: wiring them up so they finish the job.
+
+## DoNotPanic DJ
+
+![DoNotPanic DJ on a phone](assets/dnp-dj.png)
+
+Nothing is recorded and everyone hears their own mix. Dance in front of the camera to speed it up; the picture never leaves your device.
 
 Listen: [donotpanic.space](https://donotpanic.space)
 
-Made with Claude.
+## Stats (honest ones)
+
+| Metric | Value |
+| --- | --- |
+| Coffee to commit ratio | 42:1 |
+| Free RAM | alleged |
+| Agents per gigabyte | enthusiastic |
+| Times it was DNS | every time, including the other times |
+| Panics shipped | zero, as a brand |
+
+## Terminal
+
+```
+vale@air % agents
+42 running (8 GB has filed a complaint)
+vale@air % dig +short the-bug
+it's always DNS
+vale@air % echo $PANIC
+Don't
+```
+
+## Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/DNS-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hrco&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats for hrco" />
+</p>
+
+## Contact
+
+[donotpanic.space](https://donotpanic.space)
