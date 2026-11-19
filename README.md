@@ -11,9 +11,9 @@ I write the prompt with confidence and the apology with experience. Calm, durabl
 ## What I build
 
 - **[DoNotPanic DJ](https://donotpanic.space)**: an endless radio where code writes the music live in your browser. Classic stickman mode and a 3D boss mode.
-- **[xbridge-mcp](https://github.com/hrco/xbridge-mcp)**: an MCP server with 19 tools for chat, search, sessions, chains, and image and video generation. Bring your own key.
-- **[jarvis-sl](https://github.com/hrco/jarvis-sl)**: a Slovenian voice helper with an open dialect table.
 - **[qrc-gen](https://github.com/hrco/qrc-gen)**: QR codes for links, Wi-Fi and contacts, with your logo in the middle. No account, no tracking. Try it: [qr.donotpanic.space](https://qr.donotpanic.space).
+
+**In the workshop** (not ready, do not panic): [xbridge-mcp](https://github.com/hrco/xbridge-mcp), an MCP server bridge, and [jarvis-sl](https://github.com/hrco/jarvis-sl), a Slovenian voice helper.
 
 ## What I fix
 
