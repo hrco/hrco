@@ -1,4 +1,6 @@
-<h1 align="center">hrco</h1>
+<p align="center">
+  <img src="assets/terminal.svg" width="660" alt="Terminal: DON'T PANIC. echo $ANSWER gives 42. It's always DNS." />
+</p>
 
 <p align="center">
   <a href="https://donotpanic.space">
